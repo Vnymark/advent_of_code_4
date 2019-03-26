@@ -14,7 +14,7 @@ namespace advent_of_code_4
 
         static void Main(string[] args)
         {
-            var unsortedInput = @"C:\Users\Wezno\source\repos\advent_of_code_4\advent_of_code_4\input.txt";
+            var unsortedInput = @"../../../input.txt";
             List<string> SortedInput = File.ReadLines(unsortedInput).OrderBy(s => s).ToList();
 
             Guard guard = null;
