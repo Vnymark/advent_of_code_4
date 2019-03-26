@@ -1,9 +1,0 @@
-﻿I need to read the data.
-I need to sort the data in chronological order.
-
-I need to loop through and print all the data.
-Print:
-    Ten minute row
-    Minute row
-    Loop print:
-        Date, #ID, 60 markers based on sleep-state.
